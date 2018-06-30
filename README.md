@@ -1,2 +1,8 @@
-# dev-to-data-science
-I try to go into how a developer can become an expert in data science, while learning the processes of math and algorithms myself
+# In this notebook I go through the main steps of how to become a simple data scientist.
+
+Simple concepts explained with math and algorithms so don't worry. I shall guide you into the night, you shall prevail.
+
+
+1. Basic Statistics 101 (Mean, Variance, Standart Deviation)
+
+2. Distributions and types of probability
