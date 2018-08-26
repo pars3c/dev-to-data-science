@@ -8,3 +8,4 @@ Simple concepts explained with math and algorithms so don't worry. I shall guide
 2. Distributions and types of probability
 
 
+s
