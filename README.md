@@ -3,9 +3,14 @@
 Simple concepts explained with math and algorithms so don't worry. I shall guide you into the night, you shall prevail.
 
 
-1. Basic Statistics 101 (Mean, Variance, Standart Deviation)
+ * Basic Statistics 101 (Mean, Variance, Standart Deviation)
 
-2. Distributions and types of probability
+ * Distributions and types of probability
+ 
+ * Data Pre-processing
 
-
-s
+ * Model Creation
+ 
+ * Clustering
+ 
+ * Error Metrics
