@@ -11,6 +11,6 @@ Simple concepts explained with math and algorithms so don't worry. I shall guide
 
  * Model Creation
  
- * Clustering
+ * Clustering (Kmeans, KNN)
  
  * Error Metrics
