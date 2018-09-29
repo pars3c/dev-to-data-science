@@ -14,3 +14,10 @@ Simple concepts explained with math and algorithms so don't worry. I shall guide
  * Clustering (Kmeans from Scratch, KNN from Scratch)
  
  * Error Metrics
+ 
+ * Tensorflow with Keras
+ 
+ * Image classification with keras
+
+
+Links to be added soon
