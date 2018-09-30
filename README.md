@@ -21,3 +21,5 @@ Simple concepts explained with math and algorithms so don't worry. I shall guide
 
 
 Links to be added soon
+
+Alot to be done
